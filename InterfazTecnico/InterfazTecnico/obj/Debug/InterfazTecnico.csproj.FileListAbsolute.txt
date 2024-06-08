@@ -1,0 +1,14 @@
+C:\Users\Ivan Escobar\Desktop\gestor-reparaciones\InterfazTecnico\InterfazTecnico\bin\Debug\InterfazTecnico.exe.config
+C:\Users\Ivan Escobar\Desktop\gestor-reparaciones\InterfazTecnico\InterfazTecnico\bin\Debug\InterfazTecnico.exe
+C:\Users\Ivan Escobar\Desktop\gestor-reparaciones\InterfazTecnico\InterfazTecnico\bin\Debug\InterfazTecnico.pdb
+C:\Users\Ivan Escobar\Desktop\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.csproj.AssemblyReference.cache
+C:\Users\Ivan Escobar\Desktop\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.Form1.resources
+C:\Users\Ivan Escobar\Desktop\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.Properties.Resources.resources
+C:\Users\Ivan Escobar\Desktop\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.csproj.GenerateResource.cache
+C:\Users\Ivan Escobar\Desktop\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Escobar\Desktop\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.exe
+C:\Users\Ivan Escobar\Desktop\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.pdb
+C:\Users\Ivan Escobar\Desktop\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.RegistrarTecnico.resources
+C:\Users\Ivan Escobar\Desktop\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.AgregarReparacion.resources
+C:\Users\Ivan Escobar\Desktop\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.ModificarReparacion.resources
+C:\Users\Ivan Escobar\Desktop\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.EliminarReparacion.resources
