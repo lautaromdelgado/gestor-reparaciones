@@ -52,6 +52,18 @@
     <Compile Include="AgregarReparacion.Designer.cs">
       <DependentUpon>AgregarReparacion.cs</DependentUpon>
     </Compile>
+    <Compile Include="ClienteConsultaReparacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClienteConsultaReparacion.Designer.cs">
+      <DependentUpon>ClienteConsultaReparacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DetallesReparacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetallesReparacion.Designer.cs">
+      <DependentUpon>DetallesReparacion.cs</DependentUpon>
+    </Compile>
     <Compile Include="EliminarReparacion.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -80,6 +92,12 @@
     </Compile>
     <EmbeddedResource Include="AgregarReparacion.resx">
       <DependentUpon>AgregarReparacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClienteConsultaReparacion.resx">
+      <DependentUpon>ClienteConsultaReparacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetallesReparacion.resx">
+      <DependentUpon>DetallesReparacion.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="EliminarReparacion.resx">
       <DependentUpon>EliminarReparacion.cs</DependentUpon>

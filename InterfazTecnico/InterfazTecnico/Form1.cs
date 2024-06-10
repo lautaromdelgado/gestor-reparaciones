@@ -38,5 +38,11 @@ namespace InterfazTecnico
             AgregarReparacion newForm = new AgregarReparacion();
             newForm.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form clienteSesion = new ClienteConsultaReparacion();
+            clienteSesion.Show();
+        }
     }
 }
