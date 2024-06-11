@@ -19,12 +19,17 @@ namespace InterfazTecnico
 
         private void btnClienteSalir_Click(object sender, EventArgs e)
         {
-            this.Close();
+            this.Hide(); // Ocultamos este interfaz para la vista del usuario.
+
+            IniciarSesion inicio = new IniciarSesion(); // Creación de un objeto para el formulario "IniciarSesion".
+            inicio.Show(); // Mostramos la interfaz "Inicio".
         }
 
         private void btnClienteIngresar_Click(object sender, EventArgs e)
         {
-            Form Detalles = new DetallesReparacion();
+            this.Hide(); // Para cerrar el formulario.
+
+            DetallesReparacion Detalles = new DetallesReparacion(); // Creación de un objeto, a partir del formulario "Detalles Reparación".
             Detalles.ShowDialog(); // Abre el formulario y bloqueando la interacción con los demás formularios.
         }
     }

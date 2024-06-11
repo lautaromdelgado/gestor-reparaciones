@@ -1,6 +1,6 @@
 ﻿namespace InterfazTecnico
 {
-    partial class Form1
+    partial class IniciarSesion
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -38,7 +38,7 @@
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.linkLabel1 = new System.Windows.Forms.LinkLabel();
-            this.label5 = new System.Windows.Forms.Label();
+            this.lvlNoTienesCuenta = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -86,7 +86,7 @@
             // textBox1
             // 
             this.textBox1.Location = new System.Drawing.Point(161, 134);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(2);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(171, 20);
             this.textBox1.TabIndex = 4;
@@ -94,7 +94,7 @@
             // textBox2
             // 
             this.textBox2.Location = new System.Drawing.Point(161, 200);
-            this.textBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.textBox2.Margin = new System.Windows.Forms.Padding(2);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(171, 20);
             this.textBox2.TabIndex = 5;
@@ -102,7 +102,7 @@
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(205, 262);
-            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button1.Margin = new System.Windows.Forms.Padding(2);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(87, 27);
             this.button1.TabIndex = 6;
@@ -113,7 +113,7 @@
             // button2
             // 
             this.button2.Location = new System.Drawing.Point(181, 306);
-            this.button2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button2.Margin = new System.Windows.Forms.Padding(2);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(131, 21);
             this.button2.TabIndex = 7;
@@ -123,8 +123,8 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(444, 350);
-            this.button3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button3.Location = new System.Drawing.Point(457, 353);
+            this.button3.Margin = new System.Windows.Forms.Padding(2);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(57, 21);
             this.button3.TabIndex = 8;
@@ -144,22 +144,22 @@
             this.linkLabel1.Text = "Registrarse";
             this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
             // 
-            // label5
+            // lvlNoTienesCuenta
             // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(167, 226);
-            this.label5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(94, 13);
-            this.label5.TabIndex = 10;
-            this.label5.Text = "No tienes cuenta?";
+            this.lvlNoTienesCuenta.AutoSize = true;
+            this.lvlNoTienesCuenta.Location = new System.Drawing.Point(167, 226);
+            this.lvlNoTienesCuenta.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lvlNoTienesCuenta.Name = "lvlNoTienesCuenta";
+            this.lvlNoTienesCuenta.Size = new System.Drawing.Size(100, 13);
+            this.lvlNoTienesCuenta.TabIndex = 10;
+            this.lvlNoTienesCuenta.Text = "¿No tienes cuenta?";
             // 
-            // Form1
+            // IniciarSesion
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(525, 385);
-            this.Controls.Add(this.label5);
+            this.Controls.Add(this.lvlNoTienesCuenta);
             this.Controls.Add(this.linkLabel1);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
@@ -170,8 +170,8 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.Name = "Form1";
+            this.Margin = new System.Windows.Forms.Padding(2);
+            this.Name = "IniciarSesion";
             this.Text = "Fixify Software";
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -190,7 +190,7 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.LinkLabel linkLabel1;
-        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label lvlNoTienesCuenta;
     }
 }
 

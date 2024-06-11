@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\gestor-reparaciones\\InterfazTecnico\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|C:\\Users\\PC\\OneDrive\\Escritorio\\gestor-reparaciones\\InterfazTecnico\\interfaztecnico\\clienteconsultareparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|solutionrelative:interfaztecnico\\clienteconsultareparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|C:\\Users\\PC\\OneDrive\\Escritorio\\gestor-reparaciones\\InterfazTecnico\\interfaztecnico\\clienteconsultareparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|solutionrelative:interfaztecnico\\clienteconsultareparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|c:\\users\\pc\\onedrive\\escritorio\\gestor-reparaciones\\interfaztecnico\\interfaztecnico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|solutionrelative:interfaztecnico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,27 +30,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClienteConsultaReparacion.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\ClienteConsultaReparacion.cs",
-              "RelativeDocumentMoniker": "InterfazTecnico\\ClienteConsultaReparacion.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\ClienteConsultaReparacion.cs",
-              "RelativeToolTip": "InterfazTecnico\\ClienteConsultaReparacion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T21:59:05.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ClienteConsultaReparacion.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\ClienteConsultaReparacion.cs",
-              "RelativeDocumentMoniker": "InterfazTecnico\\ClienteConsultaReparacion.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\ClienteConsultaReparacion.cs [Dise\u00F1o]",
-              "RelativeToolTip": "InterfazTecnico\\ClienteConsultaReparacion.cs [Dise\u00F1o]",
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\Form1.cs",
+              "RelativeDocumentMoniker": "InterfazTecnico\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "InterfazTecnico\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T21:39:58.616Z",
+              "WhenOpened": "2024-06-11T13:52:58.047Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

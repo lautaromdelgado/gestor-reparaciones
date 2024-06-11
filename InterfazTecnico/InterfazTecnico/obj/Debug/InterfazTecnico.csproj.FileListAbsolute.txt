@@ -20,7 +20,6 @@ C:\Users\PC\OneDrive\Escritorio\gestor-reparaciones\InterfazTecnico\InterfazTecn
 C:\Users\PC\OneDrive\Escritorio\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.ClienteConsultaReparacion.resources
 C:\Users\PC\OneDrive\Escritorio\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.DetallesReparacion.resources
 C:\Users\PC\OneDrive\Escritorio\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.EliminarReparacion.resources
-C:\Users\PC\OneDrive\Escritorio\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.Form1.resources
 C:\Users\PC\OneDrive\Escritorio\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.ModificarReparacion.resources
 C:\Users\PC\OneDrive\Escritorio\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.Properties.Resources.resources
 C:\Users\PC\OneDrive\Escritorio\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.RegistrarTecnico.resources
@@ -28,3 +27,4 @@ C:\Users\PC\OneDrive\Escritorio\gestor-reparaciones\InterfazTecnico\InterfazTecn
 C:\Users\PC\OneDrive\Escritorio\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.csproj.CoreCompileInputs.cache
 C:\Users\PC\OneDrive\Escritorio\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.exe
 C:\Users\PC\OneDrive\Escritorio\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.pdb
+C:\Users\PC\OneDrive\Escritorio\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.IniciarSesion.resources
