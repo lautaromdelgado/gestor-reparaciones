@@ -3,35 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\",
   "Documents": [
     {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|c:\\users\\usuario\\desktop\\datos\\utn- tup\\gestor-reparaciones\\interfaztecnico\\interfaztecnico\\modificarreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|solutionrelative:interfaztecnico\\modificarreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|c:\\users\\usuario\\desktop\\datos\\utn- tup\\gestor-reparaciones\\interfaztecnico\\interfaztecnico\\eliminarreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|solutionrelative:interfaztecnico\\eliminarreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|c:\\users\\usuario\\desktop\\datos\\utn- tup\\gestor-reparaciones\\interfaztecnico\\interfaztecnico\\registrartecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|solutionrelative:interfaztecnico\\registrartecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\interfaztecnico\\clienteconsultareparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|solutionrelative:interfaztecnico\\clienteconsultareparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|c:\\users\\usuario\\desktop\\datos\\utn- tup\\gestor-reparaciones\\interfaztecnico\\interfaztecnico\\registrartecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|solutionrelative:interfaztecnico\\registrartecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|c:\\users\\usuario\\desktop\\datos\\utn- tup\\gestor-reparaciones\\interfaztecnico\\interfaztecnico\\agregarreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|solutionrelative:interfaztecnico\\agregarreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|c:\\users\\usuario\\desktop\\datos\\utn- tup\\gestor-reparaciones\\interfaztecnico\\interfaztecnico\\agregarreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|solutionrelative:interfaztecnico\\agregarreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\interfaztecnico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|solutionrelative:interfaztecnico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -40,20 +11,36 @@
       "RelativeMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|solutionrelative:interfaztecnico\\modificarreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|c:\\users\\usuario\\desktop\\datos\\utn- tup\\gestor-reparaciones\\interfaztecnico\\interfaztecnico\\registrartecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|solutionrelative:interfaztecnico\\registrartecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|c:\\users\\usuario\\desktop\\datos\\utn- tup\\gestor-reparaciones\\interfaztecnico\\interfaztecnico\\eliminarreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|solutionrelative:interfaztecnico\\eliminarreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|c:\\users\\usuario\\desktop\\datos\\utn- tup\\gestor-reparaciones\\interfaztecnico\\interfaztecnico\\agregarreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|solutionrelative:interfaztecnico\\agregarreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\interfaztecnico\\clienteconsultareparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|solutionrelative:interfaztecnico\\clienteconsultareparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|c:\\users\\usuario\\desktop\\datos\\utn- tup\\gestor-reparaciones\\interfaztecnico\\interfaztecnico\\detallesreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|solutionrelative:interfaztecnico\\detallesreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|c:\\users\\usuario\\desktop\\datos\\utn- tup\\gestor-reparaciones\\interfaztecnico\\interfaztecnico\\eliminarreparacion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|solutionrelative:interfaztecnico\\eliminarreparacion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|c:\\users\\usuario\\desktop\\datos\\utn- tup\\gestor-reparaciones\\interfaztecnico\\interfaztecnico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|solutionrelative:interfaztecnico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|c:\\users\\usuario\\desktop\\datos\\utn- tup\\gestor-reparaciones\\interfaztecnico\\interfaztecnico\\eliminarreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|solutionrelative:interfaztecnico\\eliminarreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\interfaztecnico\\clienteconsultareparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|solutionrelative:interfaztecnico\\clienteconsultareparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|c:\\users\\pc\\onedrive\\escritorio\\gestor-reparaciones\\interfaztecnico\\interfaztecnico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{20AD9F69-5BA2-42B5-A7AC-C5EF9E43E752}|InterfazTecnico\\InterfazTecnico.csproj|solutionrelative:interfaztecnico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
->>>>>>> 42dc1c9b59d2f82d598e3998547b92d0027f4aa2
     }
   ],
   "DocumentGroupContainers": [
@@ -63,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -75,121 +62,93 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 10,
-              "Title": "EliminarReparacion.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\EliminarReparacion.cs",
-              "RelativeDocumentMoniker": "InterfazTecnico\\EliminarReparacion.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\EliminarReparacion.cs",
-              "RelativeToolTip": "InterfazTecnico\\EliminarReparacion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T13:10:40.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EliminarReparacion.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\EliminarReparacion.cs",
-              "RelativeDocumentMoniker": "InterfazTecnico\\EliminarReparacion.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\EliminarReparacion.cs [Dise\u00F1o]",
-              "RelativeToolTip": "InterfazTecnico\\EliminarReparacion.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T13:10:37.911Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ModificarReparacion.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\ModificarReparacion.cs",
-              "RelativeDocumentMoniker": "InterfazTecnico\\ModificarReparacion.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\ModificarReparacion.cs",
-              "RelativeToolTip": "InterfazTecnico\\ModificarReparacion.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwCkAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T13:10:19.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ModificarReparacion.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\ModificarReparacion.cs",
-              "RelativeDocumentMoniker": "InterfazTecnico\\ModificarReparacion.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\ModificarReparacion.cs [Dise\u00F1o]",
-              "RelativeToolTip": "InterfazTecnico\\ModificarReparacion.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T13:10:17.318Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AgregarReparacion.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\AgregarReparacion.cs",
-              "RelativeDocumentMoniker": "InterfazTecnico\\AgregarReparacion.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\AgregarReparacion.cs",
-              "RelativeToolTip": "InterfazTecnico\\AgregarReparacion.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwCAAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T13:09:19.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RegistrarTecnico.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\RegistrarTecnico.cs",
-              "RelativeDocumentMoniker": "InterfazTecnico\\RegistrarTecnico.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\RegistrarTecnico.cs",
-              "RelativeToolTip": "InterfazTecnico\\RegistrarTecnico.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAqwBwAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T13:07:44.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "RegistrarTecnico.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\RegistrarTecnico.cs",
               "RelativeDocumentMoniker": "InterfazTecnico\\RegistrarTecnico.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\RegistrarTecnico.cs [Dise\u00F1o]",
               "RelativeToolTip": "InterfazTecnico\\RegistrarTecnico.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T12:54:09.536Z",
+              "WhenOpened": "2024-06-27T16:14:34.286Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "ModificarReparacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\ModificarReparacion.cs",
+              "RelativeDocumentMoniker": "InterfazTecnico\\ModificarReparacion.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\ModificarReparacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "InterfazTecnico\\ModificarReparacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:14:31.035Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AgregarReparacion.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\AgregarReparacion.cs",
               "RelativeDocumentMoniker": "InterfazTecnico\\AgregarReparacion.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\AgregarReparacion.cs [Dise\u00F1o]",
               "RelativeToolTip": "InterfazTecnico\\AgregarReparacion.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T12:46:48.434Z",
+              "WhenOpened": "2024-06-27T16:14:29.488Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
+              "Title": "EliminarReparacion.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\EliminarReparacion.Designer.cs",
+              "RelativeDocumentMoniker": "InterfazTecnico\\EliminarReparacion.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\EliminarReparacion.Designer.cs",
+              "RelativeToolTip": "InterfazTecnico\\EliminarReparacion.Designer.cs",
+              "ViewState": "AQIAAP8AAAAAAAAAAAD4vwEBAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:14:09.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EliminarReparacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\EliminarReparacion.cs",
+              "RelativeDocumentMoniker": "InterfazTecnico\\EliminarReparacion.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\EliminarReparacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "InterfazTecnico\\EliminarReparacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:13:25.711Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetallesReparacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\DetallesReparacion.cs",
+              "RelativeDocumentMoniker": "InterfazTecnico\\DetallesReparacion.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\DetallesReparacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "InterfazTecnico\\DetallesReparacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:13:24.383Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\Form1.cs",
               "RelativeDocumentMoniker": "InterfazTecnico\\Form1.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\Form1.cs",
               "RelativeToolTip": "InterfazTecnico\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAJAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwAQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T23:34:36.176Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\Form1.cs",
               "RelativeDocumentMoniker": "InterfazTecnico\\Form1.cs",
@@ -201,35 +160,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "ClienteConsultaReparacion.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\ClienteConsultaReparacion.cs",
               "RelativeDocumentMoniker": "InterfazTecnico\\ClienteConsultaReparacion.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\ClienteConsultaReparacion.cs",
               "RelativeToolTip": "InterfazTecnico\\ClienteConsultaReparacion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA7AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T21:59:05.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ClienteConsultaReparacion.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\ClienteConsultaReparacion.cs",
               "RelativeDocumentMoniker": "InterfazTecnico\\ClienteConsultaReparacion.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\Datos\\UTN- Tup\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\ClienteConsultaReparacion.cs [Dise\u00F1o]",
               "RelativeToolTip": "InterfazTecnico\\ClienteConsultaReparacion.cs [Dise\u00F1o]",
-=======
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\Form1.cs",
-              "RelativeDocumentMoniker": "InterfazTecnico\\Form1.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\gestor-reparaciones\\InterfazTecnico\\InterfazTecnico\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "InterfazTecnico\\Form1.cs [Dise\u00F1o]",
->>>>>>> 42dc1c9b59d2f82d598e3998547b92d0027f4aa2
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:52:58.047Z",
+              "WhenOpened": "2024-06-10T21:39:58.616Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]
