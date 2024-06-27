@@ -22,7 +22,18 @@ namespace InterfazTecnico
 
         private void button2_Click(object sender, EventArgs e)
         {
-            this.Close();
+            this.Hide(); // Ocultar la interfaz actual.
+
+            AgregarReparacion agregarReparacion = new AgregarReparacion(); // Crea un objeto a partir de la instancia AgregarReparación.
+            agregarReparacion.Show(); // Abre el formulario del objeto agregarReparación.
+        }
+
+        private void btnEliminarAtrasbtn_Click(object sender, EventArgs e)
+        {
+            this.Hide(); // Ocultar interfaz actual.
+
+            AgregarReparacion agregarReparacion = new AgregarReparacion(); // Crear un objeto a partir de la instacia AgregarReparación.
+            agregarReparacion.Show(); // Mostrar el formulario del objeto creado anteriormente.
         }
 
         private void EliminarReparacion_Load(object sender, EventArgs e)

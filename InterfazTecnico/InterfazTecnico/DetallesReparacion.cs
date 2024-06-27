@@ -19,7 +19,10 @@ namespace InterfazTecnico
 
         private void btnDetalleSalir_Click(object sender, EventArgs e)
         {
-            this.Close();
+            this.Hide(); // Ocultar la vista de la interfaz actual.
+
+            ClienteConsultaReparacion consultaReparacion = new ClienteConsultaReparacion(); // Creación del objeto a partir del formulario Cliente Consulta Reparación.
+            consultaReparacion.Show(); // Abrir la interfaz de Consultas de Reparación.
         }
     }
 }

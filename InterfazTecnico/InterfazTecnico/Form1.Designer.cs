@@ -1,6 +1,6 @@
 ﻿namespace InterfazTecnico
 {
-    partial class Form1
+    partial class IniciarSesion
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -38,7 +38,7 @@
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.linkLabel1 = new System.Windows.Forms.LinkLabel();
-            this.label5 = new System.Windows.Forms.Label();
+            this.lvlNoTienesCuenta = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -81,24 +81,39 @@
             // 
             // textBox1
             // 
+<<<<<<< HEAD
             this.textBox1.Location = new System.Drawing.Point(215, 165);
             this.textBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+=======
+            this.textBox1.Location = new System.Drawing.Point(161, 134);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(2);
+>>>>>>> 42dc1c9b59d2f82d598e3998547b92d0027f4aa2
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(227, 22);
             this.textBox1.TabIndex = 4;
             // 
             // textBox2
             // 
+<<<<<<< HEAD
             this.textBox2.Location = new System.Drawing.Point(215, 246);
             this.textBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+=======
+            this.textBox2.Location = new System.Drawing.Point(161, 200);
+            this.textBox2.Margin = new System.Windows.Forms.Padding(2);
+>>>>>>> 42dc1c9b59d2f82d598e3998547b92d0027f4aa2
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(227, 22);
             this.textBox2.TabIndex = 5;
             // 
             // button1
             // 
+<<<<<<< HEAD
             this.button1.Location = new System.Drawing.Point(273, 322);
             this.button1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+=======
+            this.button1.Location = new System.Drawing.Point(205, 262);
+            this.button1.Margin = new System.Windows.Forms.Padding(2);
+>>>>>>> 42dc1c9b59d2f82d598e3998547b92d0027f4aa2
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(116, 33);
             this.button1.TabIndex = 6;
@@ -108,8 +123,13 @@
             // 
             // button2
             // 
+<<<<<<< HEAD
             this.button2.Location = new System.Drawing.Point(241, 377);
             this.button2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+=======
+            this.button2.Location = new System.Drawing.Point(181, 306);
+            this.button2.Margin = new System.Windows.Forms.Padding(2);
+>>>>>>> 42dc1c9b59d2f82d598e3998547b92d0027f4aa2
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(175, 26);
             this.button2.TabIndex = 7;
@@ -119,8 +139,13 @@
             // 
             // button3
             // 
+<<<<<<< HEAD
             this.button3.Location = new System.Drawing.Point(592, 431);
             this.button3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+=======
+            this.button3.Location = new System.Drawing.Point(457, 353);
+            this.button3.Margin = new System.Windows.Forms.Padding(2);
+>>>>>>> 42dc1c9b59d2f82d598e3998547b92d0027f4aa2
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(76, 26);
             this.button3.TabIndex = 8;
@@ -139,21 +164,36 @@
             this.linkLabel1.Text = "Registrarse";
             this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
             // 
-            // label5
+            // lvlNoTienesCuenta
             // 
+<<<<<<< HEAD
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(223, 278);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(114, 16);
             this.label5.TabIndex = 10;
             this.label5.Text = "No tienes cuenta?";
+=======
+            this.lvlNoTienesCuenta.AutoSize = true;
+            this.lvlNoTienesCuenta.Location = new System.Drawing.Point(167, 226);
+            this.lvlNoTienesCuenta.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lvlNoTienesCuenta.Name = "lvlNoTienesCuenta";
+            this.lvlNoTienesCuenta.Size = new System.Drawing.Size(100, 13);
+            this.lvlNoTienesCuenta.TabIndex = 10;
+            this.lvlNoTienesCuenta.Text = "¿No tienes cuenta?";
+>>>>>>> 42dc1c9b59d2f82d598e3998547b92d0027f4aa2
             // 
-            // Form1
+            // IniciarSesion
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+<<<<<<< HEAD
             this.ClientSize = new System.Drawing.Size(700, 474);
             this.Controls.Add(this.label5);
+=======
+            this.ClientSize = new System.Drawing.Size(525, 385);
+            this.Controls.Add(this.lvlNoTienesCuenta);
+>>>>>>> 42dc1c9b59d2f82d598e3998547b92d0027f4aa2
             this.Controls.Add(this.linkLabel1);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
@@ -164,8 +204,13 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+<<<<<<< HEAD
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Form1";
+=======
+            this.Margin = new System.Windows.Forms.Padding(2);
+            this.Name = "IniciarSesion";
+>>>>>>> 42dc1c9b59d2f82d598e3998547b92d0027f4aa2
             this.Text = "Fixify Software";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
@@ -185,7 +230,7 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.LinkLabel linkLabel1;
-        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label lvlNoTienesCuenta;
     }
 }
 

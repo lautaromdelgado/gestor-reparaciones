@@ -8,29 +8,30 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
+using System.Xml.Schema;
 
 namespace InterfazTecnico
 {
-    public partial class Form1 : Form
+    public partial class IniciarSesion : Form
     {
         static string conexiondb = "server = localhost; database = Fixify; integrated security = true";
         SqlConnection conexion = new SqlConnection(conexiondb);
-        public Form1()
+        public IniciarSesion()
         {
             InitializeComponent();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            this.Close();
+            this.Close(); // Cerramos completamente la aplicación.
         }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            // Crear una instancia del nuevo formulario
-            RegistrarTecnico newForm = new RegistrarTecnico();
-            // Mostrar el nuevo formulario
-            newForm.Show();
+            this.Hide(); // Ocultamos la vista, para que el usuario solo interactue con la nueva interfaz.
+
+            RegistrarTecnico newForm = new RegistrarTecnico(); // Creando un objeto a partir del formulario
+            newForm.Show();// Mostrar el nuevo formulario
         }
 
 
@@ -55,14 +56,18 @@ namespace InterfazTecnico
 
         private void button1_Click(object sender, EventArgs e)
         {
-            AgregarReparacion newForm = new AgregarReparacion();
-            newForm.Show();
+            this.Hide(); // Ocultamos el formulario actual de la vista del usuario.
+
+            AgregarReparacion newForm = new AgregarReparacion(); // Creación de un objeto a partir del formulario AgregarReparación.
+            newForm.Show(); // Muestra el formulario Agregar Reparación.
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Form clienteSesion = new ClienteConsultaReparacion();
-            clienteSesion.Show();
+            this.Hide(); // Ocultamos esta interfaz, para que el usuario solo interactue con la nueva.
+
+            ClienteConsultaReparacion clienteSesion = new ClienteConsultaReparacion(); // Creación de un objeto a partir del formulario "ClienteConsultaReparacion".
+            clienteSesion.Show(); // Abre la vista del formulario ClienteConsultaReparación.
         }
 
         private void Form1_Load(object sender, EventArgs e)

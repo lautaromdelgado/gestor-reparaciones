@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.btnDetalleSalir = new System.Windows.Forms.Button();
+            this.btnDetalleAtras = new System.Windows.Forms.Button();
             this.txtboxDetalleMonto = new System.Windows.Forms.TextBox();
             this.txtboxDetalleTipoReparacion = new System.Windows.Forms.TextBox();
             this.txtboxDetalleEquipo = new System.Windows.Forms.TextBox();
@@ -43,16 +43,16 @@
             this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // btnDetalleSalir
+            // btnDetalleAtras
             // 
-            this.btnDetalleSalir.Location = new System.Drawing.Point(439, 347);
-            this.btnDetalleSalir.Margin = new System.Windows.Forms.Padding(2);
-            this.btnDetalleSalir.Name = "btnDetalleSalir";
-            this.btnDetalleSalir.Size = new System.Drawing.Size(75, 27);
-            this.btnDetalleSalir.TabIndex = 27;
-            this.btnDetalleSalir.Text = "&Salir";
-            this.btnDetalleSalir.UseVisualStyleBackColor = true;
-            this.btnDetalleSalir.Click += new System.EventHandler(this.btnDetalleSalir_Click);
+            this.btnDetalleAtras.Location = new System.Drawing.Point(439, 347);
+            this.btnDetalleAtras.Margin = new System.Windows.Forms.Padding(2);
+            this.btnDetalleAtras.Name = "btnDetalleAtras";
+            this.btnDetalleAtras.Size = new System.Drawing.Size(75, 27);
+            this.btnDetalleAtras.TabIndex = 27;
+            this.btnDetalleAtras.Text = "&Atrás";
+            this.btnDetalleAtras.UseVisualStyleBackColor = true;
+            this.btnDetalleAtras.Click += new System.EventHandler(this.btnDetalleSalir_Click);
             // 
             // txtboxDetalleMonto
             // 
@@ -171,7 +171,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(525, 385);
-            this.Controls.Add(this.btnDetalleSalir);
+            this.Controls.Add(this.btnDetalleAtras);
             this.Controls.Add(this.txtboxDetalleMonto);
             this.Controls.Add(this.txtboxDetalleTipoReparacion);
             this.Controls.Add(this.txtboxDetalleEquipo);
@@ -193,7 +193,7 @@
 
         #endregion
 
-        private System.Windows.Forms.Button btnDetalleSalir;
+        private System.Windows.Forms.Button btnDetalleAtras;
         private System.Windows.Forms.TextBox txtboxDetalleMonto;
         private System.Windows.Forms.TextBox txtboxDetalleTipoReparacion;
         private System.Windows.Forms.TextBox txtboxDetalleEquipo;

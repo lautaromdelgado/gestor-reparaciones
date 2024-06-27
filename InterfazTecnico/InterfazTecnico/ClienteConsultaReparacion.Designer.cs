@@ -110,7 +110,7 @@
             this.btnClienteSalir.Name = "btnClienteSalir";
             this.btnClienteSalir.Size = new System.Drawing.Size(76, 26);
             this.btnClienteSalir.TabIndex = 20;
-            this.btnClienteSalir.Text = "&Salir";
+            this.btnClienteSalir.Text = "&Atrás";
             this.btnClienteSalir.UseVisualStyleBackColor = true;
             this.btnClienteSalir.Click += new System.EventHandler(this.btnClienteSalir_Click);
             // 

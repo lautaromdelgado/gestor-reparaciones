@@ -20,7 +20,6 @@ C:\Users\PC\OneDrive\Escritorio\gestor-reparaciones\InterfazTecnico\InterfazTecn
 C:\Users\PC\OneDrive\Escritorio\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.ClienteConsultaReparacion.resources
 C:\Users\PC\OneDrive\Escritorio\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.DetallesReparacion.resources
 C:\Users\PC\OneDrive\Escritorio\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.EliminarReparacion.resources
-C:\Users\PC\OneDrive\Escritorio\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.Form1.resources
 C:\Users\PC\OneDrive\Escritorio\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.ModificarReparacion.resources
 C:\Users\PC\OneDrive\Escritorio\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.Properties.Resources.resources
 C:\Users\PC\OneDrive\Escritorio\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.RegistrarTecnico.resources
@@ -28,6 +27,7 @@ C:\Users\PC\OneDrive\Escritorio\gestor-reparaciones\InterfazTecnico\InterfazTecn
 C:\Users\PC\OneDrive\Escritorio\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.csproj.CoreCompileInputs.cache
 C:\Users\PC\OneDrive\Escritorio\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.exe
 C:\Users\PC\OneDrive\Escritorio\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.pdb
+<<<<<<< HEAD
 C:\Users\Usuario\Desktop\Datos\UTN- Tup\gestor-reparaciones\InterfazTecnico\InterfazTecnico\bin\Debug\InterfazTecnico.exe.config
 C:\Users\Usuario\Desktop\Datos\UTN- Tup\gestor-reparaciones\InterfazTecnico\InterfazTecnico\bin\Debug\InterfazTecnico.exe
 C:\Users\Usuario\Desktop\Datos\UTN- Tup\gestor-reparaciones\InterfazTecnico\InterfazTecnico\bin\Debug\InterfazTecnico.pdb
@@ -44,3 +44,6 @@ C:\Users\Usuario\Desktop\Datos\UTN- Tup\gestor-reparaciones\InterfazTecnico\Inte
 C:\Users\Usuario\Desktop\Datos\UTN- Tup\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\Desktop\Datos\UTN- Tup\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.exe
 C:\Users\Usuario\Desktop\Datos\UTN- Tup\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.pdb
+=======
+C:\Users\PC\OneDrive\Escritorio\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.IniciarSesion.resources
+>>>>>>> 42dc1c9b59d2f82d598e3998547b92d0027f4aa2

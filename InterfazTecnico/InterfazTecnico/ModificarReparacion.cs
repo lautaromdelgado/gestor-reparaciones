@@ -23,7 +23,10 @@ namespace InterfazTecnico
 
         private void button3_Click(object sender, EventArgs e)
         {
-            this.Close();
+            this.Hide(); // Ocultar la vista de la interfaz para el usuario.
+
+            AgregarReparacion agregarReparacion = new AgregarReparacion(); // Objeto creado a partir de la instancia AgregarReparación.
+            agregarReparacion.Show(); // Mostrar la interfaz AgregarReparación.
         }
 
         private void ModificarReparacion_Load(object sender, EventArgs e)

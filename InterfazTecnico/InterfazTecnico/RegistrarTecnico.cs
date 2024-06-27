@@ -40,7 +40,10 @@ namespace InterfazTecnico
 
         private void button2_Click(object sender, EventArgs e)
         {
-            this.Close();
+            this.Hide(); // Ocultar la interfaz actual.
+
+            IniciarSesion inicio = new IniciarSesion(); // Crea un objeto a partir de la instancia AgregarReparación.
+            inicio.Show(); // Muestra el formulario AgregarReparación
         }
 
         private void RegistrarTecnico_Load(object sender, EventArgs e)
