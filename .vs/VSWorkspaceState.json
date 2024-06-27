@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\InterfazTecnico",
+    "\\InterfazTecnico\\InterfazTecnico"
   ],
-  "SelectedNode": "\\InterfazTecnico.sln",
+  "SelectedNode": "\\InterfazTecnico\\InterfazTecnico\\ClienteConsultaReparacion.cs",
   "PreviewInSolutionExplorer": false
 }

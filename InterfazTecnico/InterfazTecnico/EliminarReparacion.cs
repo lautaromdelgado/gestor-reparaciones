@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -12,6 +13,8 @@ namespace InterfazTecnico
 {
     public partial class EliminarReparacion : Form
     {
+        static string conexiondb = "server=localhost;database=Fixify;integrated security=true";
+        SqlConnection conexion = new SqlConnection(conexiondb);
         public EliminarReparacion()
         {
             InitializeComponent();
@@ -20,6 +23,31 @@ namespace InterfazTecnico
         private void button2_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void EliminarReparacion_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void EliminarReparacionPorID(int reparacionId)
+        {
+            string query = "DELETE FROM Reparaciones WHERE ReparacionId = @ReparacionId";
+            using (SqlCommand command = new SqlCommand(query, conexion))
+            {
+                command.Parameters.AddWithValue("@ReparacionId", reparacionId);
+
+                conexion.Open();
+                command.ExecuteNonQuery();
+                conexion.Close();
+            }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int reparacionId = int.Parse(txtReparacionId.Text);
+            EliminarReparacionPorId(reparacionId);
+            MessageBox.Show("Reparación eliminada exitosamente");
         }
     }
 }

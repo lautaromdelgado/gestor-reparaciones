@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -12,10 +13,34 @@ namespace InterfazTecnico
 {
     public partial class AgregarReparacion : Form
     {
+        static string conexiondb = "server=localhost;database=Fixify;integrated security=true";
+        SqlConnection conexion = new SqlConnection(conexiondb);
         public AgregarReparacion()
         {
             InitializeComponent();
         }
+
+
+        private void AgregarReparaciones(int clienteId, int tecnicoId, string equipo, string tipoReparacion, decimal monto, string token)
+        {
+            string query = "INSERT INTO Reparaciones (ClienteId, TecnicoId, Equipo, TipoReparacion, Monto, Token) VALUES (@ClienteId, @TecnicoId, @Equipo, @TipoReparacion, @Monto, @Token)";
+            using (SqlCommand command = new SqlCommand(query, conexion))
+            {
+                command.Parameters.AddWithValue("@ClienteId", clienteId);
+                command.Parameters.AddWithValue("@TecnicoId", tecnicoId);
+                command.Parameters.AddWithValue("@Equipo", equipo);
+                command.Parameters.AddWithValue("@TipoReparacion", tipoReparacion);
+                command.Parameters.AddWithValue("@Monto", monto);
+                command.Parameters.AddWithValue("@Token", token);
+
+                conexion.Open();
+                command.ExecuteNonQuery();
+                conexion.Close();
+            }
+        }
+
+
+
 
         private void button2_Click(object sender, EventArgs e)
         {
@@ -32,6 +57,11 @@ namespace InterfazTecnico
         {
             EliminarReparacion newForm = new EliminarReparacion();
             newForm.Show();
+        }
+
+        private void AgregarReparacion_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

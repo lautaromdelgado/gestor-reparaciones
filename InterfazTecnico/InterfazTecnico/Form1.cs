@@ -33,6 +33,26 @@ namespace InterfazTecnico
             newForm.Show();
         }
 
+
+        private bool IniciarSesion(string usuario, string contraseña)
+        {
+            string query = "SELECT COUNT(*) FROM Tecnicos WHERE Usuario = @Usuario AND Contraseña = @Contraseña";
+            using (SqlCommand command = new SqlCommand(query, conexion))
+            {
+                command.Parameters.AddWithValue("@Usuario", usuario);
+                command.Parameters.AddWithValue("@Contraseña", contraseña);
+
+                conexion.Open();
+                int count = (int)command.ExecuteScalar();
+                conexion.Close();
+
+                return count > 0;
+            }
+        }
+
+
+
+
         private void button1_Click(object sender, EventArgs e)
         {
             AgregarReparacion newForm = new AgregarReparacion();
@@ -43,6 +63,11 @@ namespace InterfazTecnico
         {
             Form clienteSesion = new ClienteConsultaReparacion();
             clienteSesion.Show();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

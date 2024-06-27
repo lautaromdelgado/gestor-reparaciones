@@ -40,10 +40,10 @@
             // 
             // btnClienteIngresar
             // 
-            this.btnClienteIngresar.Location = new System.Drawing.Point(225, 271);
-            this.btnClienteIngresar.Margin = new System.Windows.Forms.Padding(2);
+            this.btnClienteIngresar.Location = new System.Drawing.Point(300, 334);
+            this.btnClienteIngresar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnClienteIngresar.Name = "btnClienteIngresar";
-            this.btnClienteIngresar.Size = new System.Drawing.Size(87, 27);
+            this.btnClienteIngresar.Size = new System.Drawing.Size(116, 33);
             this.btnClienteIngresar.TabIndex = 17;
             this.btnClienteIngresar.Text = "&Ingresar";
             this.btnClienteIngresar.UseVisualStyleBackColor = true;
@@ -51,37 +51,35 @@
             // 
             // txtboxToken
             // 
-            this.txtboxToken.Location = new System.Drawing.Point(179, 223);
-            this.txtboxToken.Margin = new System.Windows.Forms.Padding(2);
+            this.txtboxToken.Location = new System.Drawing.Point(239, 274);
+            this.txtboxToken.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtboxToken.Name = "txtboxToken";
-            this.txtboxToken.Size = new System.Drawing.Size(171, 20);
+            this.txtboxToken.Size = new System.Drawing.Size(227, 22);
             this.txtboxToken.TabIndex = 16;
             // 
             // txtboxClienteDni
             // 
-            this.txtboxClienteDni.Location = new System.Drawing.Point(179, 149);
-            this.txtboxClienteDni.Margin = new System.Windows.Forms.Padding(2);
+            this.txtboxClienteDni.Location = new System.Drawing.Point(239, 183);
+            this.txtboxClienteDni.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtboxClienteDni.Name = "txtboxClienteDni";
-            this.txtboxClienteDni.Size = new System.Drawing.Size(171, 20);
+            this.txtboxClienteDni.Size = new System.Drawing.Size(227, 22);
             this.txtboxClienteDni.TabIndex = 15;
             // 
             // lblClienteToken
             // 
             this.lblClienteToken.AutoSize = true;
-            this.lblClienteToken.Location = new System.Drawing.Point(213, 192);
-            this.lblClienteToken.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lblClienteToken.Location = new System.Drawing.Point(284, 236);
             this.lblClienteToken.Name = "lblClienteToken";
-            this.lblClienteToken.Size = new System.Drawing.Size(109, 13);
+            this.lblClienteToken.Size = new System.Drawing.Size(136, 16);
             this.lblClienteToken.TabIndex = 14;
             this.lblClienteToken.Text = "Token de reparación:";
             // 
             // lblClienteDni
             // 
             this.lblClienteDni.AutoSize = true;
-            this.lblClienteDni.Location = new System.Drawing.Point(253, 122);
-            this.lblClienteDni.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lblClienteDni.Location = new System.Drawing.Point(337, 150);
             this.lblClienteDni.Name = "lblClienteDni";
-            this.lblClienteDni.Size = new System.Drawing.Size(29, 13);
+            this.lblClienteDni.Size = new System.Drawing.Size(33, 16);
             this.lblClienteDni.TabIndex = 13;
             this.lblClienteDni.Text = "DNI:";
             // 
@@ -89,10 +87,9 @@
             // 
             this.lblClienteIniciarSesion.AutoSize = true;
             this.lblClienteIniciarSesion.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblClienteIniciarSesion.Location = new System.Drawing.Point(196, 68);
-            this.lblClienteIniciarSesion.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lblClienteIniciarSesion.Location = new System.Drawing.Point(261, 84);
             this.lblClienteIniciarSesion.Name = "lblClienteIniciarSesion";
-            this.lblClienteIniciarSesion.Size = new System.Drawing.Size(133, 18);
+            this.lblClienteIniciarSesion.Size = new System.Drawing.Size(164, 24);
             this.lblClienteIniciarSesion.TabIndex = 12;
             this.lblClienteIniciarSesion.Text = "INICIAR SESION";
             // 
@@ -100,19 +97,18 @@
             // 
             this.lblClienteFixify.AutoSize = true;
             this.lblClienteFixify.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblClienteFixify.Location = new System.Drawing.Point(195, 32);
-            this.lblClienteFixify.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lblClienteFixify.Location = new System.Drawing.Point(260, 39);
             this.lblClienteFixify.Name = "lblClienteFixify";
-            this.lblClienteFixify.Size = new System.Drawing.Size(127, 20);
+            this.lblClienteFixify.Size = new System.Drawing.Size(154, 25);
             this.lblClienteFixify.TabIndex = 11;
             this.lblClienteFixify.Text = "Fixify Software";
             // 
             // btnClienteSalir
             // 
-            this.btnClienteSalir.Location = new System.Drawing.Point(457, 353);
-            this.btnClienteSalir.Margin = new System.Windows.Forms.Padding(2);
+            this.btnClienteSalir.Location = new System.Drawing.Point(609, 434);
+            this.btnClienteSalir.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnClienteSalir.Name = "btnClienteSalir";
-            this.btnClienteSalir.Size = new System.Drawing.Size(57, 21);
+            this.btnClienteSalir.Size = new System.Drawing.Size(76, 26);
             this.btnClienteSalir.TabIndex = 20;
             this.btnClienteSalir.Text = "&Salir";
             this.btnClienteSalir.UseVisualStyleBackColor = true;
@@ -120,9 +116,9 @@
             // 
             // ClienteConsultaReparacion
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(525, 385);
+            this.ClientSize = new System.Drawing.Size(700, 474);
             this.Controls.Add(this.btnClienteSalir);
             this.Controls.Add(this.btnClienteIngresar);
             this.Controls.Add(this.txtboxToken);
@@ -131,8 +127,10 @@
             this.Controls.Add(this.lblClienteDni);
             this.Controls.Add(this.lblClienteIniciarSesion);
             this.Controls.Add(this.lblClienteFixify);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "ClienteConsultaReparacion";
             this.Text = "Iniciar sesión";
+            this.Load += new System.EventHandler(this.ClienteConsultaReparacion_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

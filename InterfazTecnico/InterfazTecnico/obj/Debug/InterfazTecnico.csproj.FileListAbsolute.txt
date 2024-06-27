@@ -28,3 +28,19 @@ C:\Users\PC\OneDrive\Escritorio\gestor-reparaciones\InterfazTecnico\InterfazTecn
 C:\Users\PC\OneDrive\Escritorio\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.csproj.CoreCompileInputs.cache
 C:\Users\PC\OneDrive\Escritorio\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.exe
 C:\Users\PC\OneDrive\Escritorio\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.pdb
+C:\Users\Usuario\Desktop\Datos\UTN- Tup\gestor-reparaciones\InterfazTecnico\InterfazTecnico\bin\Debug\InterfazTecnico.exe.config
+C:\Users\Usuario\Desktop\Datos\UTN- Tup\gestor-reparaciones\InterfazTecnico\InterfazTecnico\bin\Debug\InterfazTecnico.exe
+C:\Users\Usuario\Desktop\Datos\UTN- Tup\gestor-reparaciones\InterfazTecnico\InterfazTecnico\bin\Debug\InterfazTecnico.pdb
+C:\Users\Usuario\Desktop\Datos\UTN- Tup\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Datos\UTN- Tup\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.AgregarReparacion.resources
+C:\Users\Usuario\Desktop\Datos\UTN- Tup\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.ClienteConsultaReparacion.resources
+C:\Users\Usuario\Desktop\Datos\UTN- Tup\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.DetallesReparacion.resources
+C:\Users\Usuario\Desktop\Datos\UTN- Tup\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.EliminarReparacion.resources
+C:\Users\Usuario\Desktop\Datos\UTN- Tup\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.Form1.resources
+C:\Users\Usuario\Desktop\Datos\UTN- Tup\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.ModificarReparacion.resources
+C:\Users\Usuario\Desktop\Datos\UTN- Tup\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Datos\UTN- Tup\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.RegistrarTecnico.resources
+C:\Users\Usuario\Desktop\Datos\UTN- Tup\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Datos\UTN- Tup\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Datos\UTN- Tup\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.exe
+C:\Users\Usuario\Desktop\Datos\UTN- Tup\gestor-reparaciones\InterfazTecnico\InterfazTecnico\obj\Debug\InterfazTecnico.pdb
